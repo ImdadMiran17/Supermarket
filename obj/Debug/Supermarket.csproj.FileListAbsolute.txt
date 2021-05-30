@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\HP\Desktop\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\HP\Desktop\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\HP\Desktop\Supermarket\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.Form1.resources
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.csproj.CopyComplete
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.pdb
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.Splash.resources
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.CategoryForm.resources
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.ProductForm.resources
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.SellerForm.resources
+C:\Users\HP\Desktop\Supermarket\obj\Debug\Supermarket.SellingForm.resources
